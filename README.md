@@ -50,7 +50,8 @@ Com simplin você pode:
   <img src="https://github.com/user-attachments/assets/c669fe71-1a4a-41ce-8e13-3c860bd02aa5" width="25%">
 
 
- 
+ ## Para mais, entre em contato:
+  
 <div> 
   <a href="https://www.instagram.com/amanda.opc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:flab.amanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
