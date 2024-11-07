@@ -15,6 +15,7 @@
   > SwiftUI, 
   > SwiftData e
   > CloudKit
+  > MVVM
   
   <img src="https://github.com/user-attachments/assets/f06fc524-7a02-48e3-b9dd-082e77526204" width="45%">
   <img src="https://github.com/user-attachments/assets/f018fdb9-2bca-4a26-ba4e-84d99f017e1b" width="45%">
@@ -42,15 +43,59 @@ Com simplin você pode:
 
 > [!NOTE]
   > SriteKit,
-  > SwiftUI
+  > SwiftUI e
   > SwiftData
 
   <img src="https://github.com/user-attachments/assets/29bcf8bb-4866-4e76-97da-684f00dfa0be" width="25%">
-  <img src="https://github.com/user-attachments/assets/776c07e6-aaa2-4a2d-a2dd-21875a000b61" width="25%">
+  <img src="https://github.com/user-attachments/assets/0839ac09-9882-4a92-9ebc-e09936d8b575" width="25%">
   <img src="https://github.com/user-attachments/assets/c669fe71-1a4a-41ce-8e13-3c860bd02aa5" width="25%">
 
+### MushRoom
+  Também um aplicativo que auxilia na rotina. Porém com um design diferente, pois a ideia era ser atrativo para jovens que começaram a morar sozinhos, e precisam organizar as tarefas de casa.
+  
+  Com MushRoom é possível:
+- [x] Criar cards para cada tarefa do seu dia.
+- [x] Editar as tarefas.
+- [x] Setar prioridade para cada uma.
+- [x] Ser lembrado de uma tarefa, e em ordem de prioridade, e horário.
+- [x] Utilizar tarefas já pré-setadas, com itens mandatórios de organização.
 
- ## Para mais, entre em contato:
+> [!NOTE]
+  > SwiftUI,
+  > SwiftData
+
+  <img src="https://github.com/user-attachments/assets/9c21404d-7196-4fd3-b37d-c9f45504bd48" width="25%">
+  <img src="https://github.com/user-attachments/assets/757b0202-0adf-44d6-a1b0-a2a88d22bf58" width="25%">
+  <img src="https://github.com/user-attachments/assets/f28b30b9-7d1a-4699-8579-a43078762e4c" width="25%">
+
+
+### TeuMomento
+  Um aplicativo solo, desenvolvido para auxiliar pessoas com a primeira leitura da Bíblia.
+  Foi meu primeiro contato com UIKit, e foi submetido à AppStore somente a versão Beta, pois está passando por um momento de Redesign, e limpeza de código. Além de muitas features como novidade!
+
+O que TeuMomento te oferece, e te oferecerá:
+- [x] Ordem recomendada para leitura.
+- [x] Contexto-histórico de cada livro.
+- [x] Escrever suas passagens mais marcantes.
+- [x] Checkmark para cada livro lido
+- [ ] API da Bíblia.
+- [ ] Cronômetro para tempo de oração.
+- [ ] Dicas de leitura para devocional.
+- [ ] Opção de editar a ordem dos livros.
+- [ ] MUITO MAIS!
+      
+> [!NOTE]
+  > UIKit,
+  > CoreData e
+  > MVC
+
+Imagens da versão 1.0
+  <img src="https://github.com/user-attachments/assets/c2552077-8413-4b88-bbd3-4f8426fba8d8" width="25%">
+  <img src="https://github.com/user-attachments/assets/992e0de5-f561-45db-a78c-c15b9205bf60" width="25%">
+  <img src="https://github.com/user-attachments/assets/50433f40-aa1d-4ecf-9f88-dc660e37a792" width="25%">
+  <img src="https://github.com/user-attachments/assets/9c1de5c1-a9e7-498f-afa2-f50f576045d7" width="25%">
+
+ ## Qualquer dúvida, curiosidade ou feedback, entre em contato:
   
 <div> 
   <a href="https://www.instagram.com/amanda.opc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
