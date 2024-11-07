@@ -49,7 +49,7 @@ Com simplin você pode:
   > Grupo de desenvolvimento composto por **5 PESSOAS**.
 
 > [!NOTE]
-  > SriteKit,
+  > SpriteKit,
   > SwiftUI e
   > SwiftData
 
