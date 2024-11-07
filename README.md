@@ -104,7 +104,6 @@ Imagens da versão 1.0
   <img src="https://github.com/user-attachments/assets/c2552077-8413-4b88-bbd3-4f8426fba8d8" width="25%">
   <img src="https://github.com/user-attachments/assets/992e0de5-f561-45db-a78c-c15b9205bf60" width="25%">
   <img src="https://github.com/user-attachments/assets/50433f40-aa1d-4ecf-9f88-dc660e37a792" width="25%">
-  <img src="https://github.com/user-attachments/assets/9c1de5c1-a9e7-498f-afa2-f50f576045d7" width="25%">
 
  ## Qualquer dúvida, curiosidade ou feedback, entre em contato:
   
