@@ -4,7 +4,9 @@
 
   ### Meili
   O Meili é um aplicativo que foi desenvolvido para suprir as necessidades de um veterinário que atende a domicílio. Visando colocar todas as ferramentas que ele utiliza em uma consulta, em apenas um lugar!
-  
+  > [!IMPORTANT]
+  > Grupo de desenvolvimento composto por **6 PESSOAS**.
+> 
   Com Meili você pode:
   - [x] Adicionar Tutor
   - [x] Editar dados dele
@@ -23,6 +25,8 @@
  ### Simplin
  Uma agenda semanal com imagens da sua galeria feita para atender as necessidades de pessoas com TEA, por meio de cards que ajudam a seguir uma
 rotina de forma simplificada.
+> [!IMPORTANT]
+  > Grupo de desenvolvimento composto por **5 PESSOAS**.
 
 Com simplin você pode:
 - [x] Criar cards para cada tarefa do seu dia.
@@ -40,6 +44,9 @@ Com simplin você pode:
 
   ### FallingMath
   FallingMath foi um projeto de um Serious Game de Matemática, onde visamos aprimorar a prática das operações básicas de matemática para crianças de 10 a 12 anos.
+  
+  > [!IMPORTANT]
+  > Grupo de desenvolvimento composto por **5 PESSOAS**.
 
 > [!NOTE]
   > SriteKit,
@@ -52,6 +59,8 @@ Com simplin você pode:
 
 ### MushRoom
   Também um aplicativo que auxilia na rotina. Porém com um design diferente, pois a ideia era ser atrativo para jovens que começaram a morar sozinhos, e precisam organizar as tarefas de casa.
+  > [!IMPORTANT]
+  > Grupo de desenvolvimento composto por **5 PESSOAS**.
   
   Com MushRoom é possível:
 - [x] Criar cards para cada tarefa do seu dia.
@@ -70,8 +79,10 @@ Com simplin você pode:
 
 
 ### TeuMomento
-  Um aplicativo solo, desenvolvido para auxiliar pessoas com a primeira leitura da Bíblia.
+  Um projeto solo, desenvolvido para auxiliar pessoas com a primeira leitura da Bíblia.
   Foi meu primeiro contato com UIKit, e foi submetido à AppStore somente a versão Beta, pois está passando por um momento de Redesign, e limpeza de código. Além de muitas features como novidade!
+  > [!IMPORTANT]
+  > **Desenvolvimento solo**
 
 O que TeuMomento te oferece, e te oferecerá:
 - [x] Ordem recomendada para leitura.
